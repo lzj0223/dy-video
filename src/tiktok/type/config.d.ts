@@ -12,7 +12,7 @@ type TiktokAwemeItem = {
   id: string
   title: string
   url: string
-  raw: ?TRawItem
+  raw: TRawItem | null | undefined
 }
 
 type TRawItem = {

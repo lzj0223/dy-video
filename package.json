@@ -23,9 +23,11 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.2",
     "@electron-toolkit/utils": "^4.0.0",
+    "@types/fs-extra": "^11.0.4",
     "axios": "^1.12.2",
     "electron-updater": "^6.3.9",
     "filenamify": "^7.0.0",
+    "fs-extra": "^11.3.2",
     "nodejs-file-downloader": "^4.13.0"
   },
   "devDependencies": {
