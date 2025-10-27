@@ -24,9 +24,11 @@
     "@electron-toolkit/preload": "^3.0.2",
     "@electron-toolkit/utils": "^4.0.0",
     "axios": "^1.12.2",
+    "electron-store": "^11.0.2",
     "electron-updater": "^6.3.9",
     "filenamify": "^7.0.0",
     "fs-extra": "^11.3.2",
+    "nedb-promises": "^6.2.3",
     "nodejs-file-downloader": "^4.13.0"
   },
   "devDependencies": {
@@ -35,6 +37,7 @@
     "@electron-toolkit/tsconfig": "^1.0.1",
     "@tailwindcss/vite": "^4.1.12",
     "@types/fs-extra": "^11.0.4",
+    "@types/nedb": "^1.8.16",
     "@types/node": "^22.16.5",
     "@vitejs/plugin-vue": "^6.0.0",
     "electron": "^37.2.3",
